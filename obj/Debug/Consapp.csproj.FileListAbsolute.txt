@@ -1,0 +1,8 @@
+E:\Users\kishan\source\repos\Consapp\bin\Debug\Consapp.exe.config
+E:\Users\kishan\source\repos\Consapp\bin\Debug\Consapp.exe
+E:\Users\kishan\source\repos\Consapp\bin\Debug\Consapp.pdb
+E:\Users\kishan\source\repos\Consapp\obj\Debug\Consapp.csproj.AssemblyReference.cache
+E:\Users\kishan\source\repos\Consapp\obj\Debug\Consapp.csproj.SuggestedBindingRedirects.cache
+E:\Users\kishan\source\repos\Consapp\obj\Debug\Consapp.csproj.CoreCompileInputs.cache
+E:\Users\kishan\source\repos\Consapp\obj\Debug\Consapp.exe
+E:\Users\kishan\source\repos\Consapp\obj\Debug\Consapp.pdb
